@@ -1,0 +1,61 @@
+#calculator 2.0 (input taken once)
+
+Simple Calculator in C (Input Taken Once)
+Project Overview
+
+Simple Calculator is a menu-driven C program developed to perform basic arithmetic operations. The program accepts two numbers only once and allows the user to perform multiple operations on the same input values without entering them again.
+This project was created to practice C fundamentals such as functions, switch case, loops, and user interaction.
+
+->Features
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Input Taken Only Once
+6.Menu Driven Interface
+7.Exit Option
+
+->Concepts Used
+.C Programming
+.Switch Case
+.Loops (do-while)
+.Variables
+.Arithmetic Operators
+.User Input Handling
+Project Structure
+simple_calculator/
+│
+├── main.c
+└── README.md
+
+->How It Works
+-User enters two numbers once at the beginning.
+-Program displays the operation menu.
+-User selects an operation.
+-Result is displayed using the same entered numbers.
+-User can continue performing operations until selecting Exit.
+
+Sample Menu
+===== SIMPLE CALCULATOR =====
+Enter First Number: 20
+Enter Second Number: 10
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Example Output
+Choice: 1
+Addition = 30
+
+Choice: 3
+Multiplication = 200
+Learning Outcomes
+
+By building this project, I learned:
+1.Using switch case for multiple operations
+2.Managing loops in C
+3.Taking user input efficiently
+4.Writing clean and reusable logic
+5.Building menu-driven applications
