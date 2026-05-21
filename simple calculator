@@ -1,0 +1,60 @@
+Simple Calculator Using C
+Project Overview
+
+Simple Calculator is a menu-driven application developed in C language to perform basic arithmetic operations. The program allows users to enter numbers and select an operation to calculate the result.
+
+This project was created to practice fundamental programming concepts such as switch case, loops, user input, and arithmetic operations.
+
+Features
+Addition
+Subtraction
+Multiplication
+Division
+Menu Driven Interface
+Exit Option
+Concepts Used
+C Programming
+Switch Case
+Loops (do-while)
+Variables and Data Types
+Arithmetic Operators
+User Input Handling
+Project Structure
+simple_calculator/
+│
+├── main.c
+└── README.md
+How It Works
+User enters the required numbers.
+Program displays available operations.
+User selects an operation from the menu.
+Program performs calculation and displays result.
+User can continue until choosing Exit.
+Sample Menu
+===== SIMPLE CALCULATOR =====
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Example
+
+Input:
+
+Number 1 = 20
+Number 2 = 10
+Choice = 1
+
+Output:
+
+Result = 30
+Learning Outcomes
+
+By building this project, I learned:
+
+Using switch case in C
+Implementing menu-driven programs
+Taking and processing user input
+Performing arithmetic operations
+Writing simple and structured code
